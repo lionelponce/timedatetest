@@ -1,0 +1,16 @@
+C:\Users\lponce\Documents\SharpDevelop Projects\TimeDateTests\TimeDateTests\obj\Debug\TimeDateTests.csprojResolveAssemblyReference.cache
+C:\Users\lponce\Documents\SharpDevelop Projects\TimeDateTests\TimeDateTests\obj\Debug\TimeDateTests.MainForm.resources
+C:\Users\lponce\Documents\SharpDevelop Projects\TimeDateTests\TimeDateTests\obj\Debug\TimeDateTests.csproj.GenerateResource.Cache
+C:\Users\lponce\Documents\SharpDevelop Projects\TimeDateTests\TimeDateTests\bin\Debug\TimeDateTests.exe.config
+C:\Users\lponce\Documents\SharpDevelop Projects\TimeDateTests\TimeDateTests\bin\Debug\TimeDateTests.exe
+C:\Users\lponce\Documents\SharpDevelop Projects\TimeDateTests\TimeDateTests\bin\Debug\TimeDateTests.pdb
+C:\Users\lponce\Documents\SharpDevelop Projects\TimeDateTests\TimeDateTests\obj\Debug\TimeDateTests.exe
+C:\Users\lponce\Documents\SharpDevelop Projects\TimeDateTests\TimeDateTests\obj\Debug\TimeDateTests.pdb
+D:\Electronica y Programacion\TimeDateTests\TimeDateTests\bin\Debug\TimeDateTests.exe.config
+D:\Electronica y Programacion\TimeDateTests\TimeDateTests\bin\Debug\TimeDateTests.exe
+D:\Electronica y Programacion\TimeDateTests\TimeDateTests\bin\Debug\TimeDateTests.pdb
+D:\Electronica y Programacion\TimeDateTests\TimeDateTests\obj\Debug\TimeDateTests.csprojResolveAssemblyReference.cache
+D:\Electronica y Programacion\TimeDateTests\TimeDateTests\obj\Debug\TimeDateTests.MainForm.resources
+D:\Electronica y Programacion\TimeDateTests\TimeDateTests\obj\Debug\TimeDateTests.csproj.GenerateResource.Cache
+D:\Electronica y Programacion\TimeDateTests\TimeDateTests\obj\Debug\TimeDateTests.exe
+D:\Electronica y Programacion\TimeDateTests\TimeDateTests\obj\Debug\TimeDateTests.pdb
